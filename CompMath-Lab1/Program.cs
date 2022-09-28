@@ -1,4 +1,6 @@
-﻿namespace CompMath_Lab1
+﻿using CompMath_Lab1;
+
+namespace Program
 {
     public class Program
     {

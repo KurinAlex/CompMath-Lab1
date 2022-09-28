@@ -13,7 +13,7 @@
 
         static readonly double[] coefficients = { 2 * (1 + a), -3, -1, 0, 0, 3 * k };
         static readonly Polynomial polynomial = new(coefficients.Reverse());
-        static readonly (double, double)[] ranges = { (-7.0 / 4, -3.0 / 7) };
+        static readonly (double, double)[] ranges = { (-1.75, -0.482) };
 
         const string fileName = "Result.txt";
 
